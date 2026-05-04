@@ -1,7 +1,7 @@
 # Hi 👋, I'm Than Singh
 
 🚀 Software Developer | React.js Developer  
-💼 3+ Years of Experience in Frontend Development  
+💼 3 Years of Experience in Frontend Development  
 
 ---
 
